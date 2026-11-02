@@ -27,10 +27,10 @@ import {
 
 const LS_SOLVED_KEY = "bob05_solved_chores";
 const LS_CODE_PREFIX = "bob05_chore_code_";
-const REPO_URL = "https://github.com/italoalmeida0/call-me-bob-05";
+const REPO_URL = "https://github.com/aloipex/call-me-bob-05";
 const PREV_SITE = {
   label: "call-me-bob 04",
-  url: "https://italoalmeida0.github.io/call-me-bob-04/",
+  url: "https://aloipex.github.io/call-me-bob-04/",
 };
 const NEXT_SITE = null;
 
